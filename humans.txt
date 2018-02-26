@@ -1,0 +1,2 @@
+a simple message for ssh comuniation 
+
